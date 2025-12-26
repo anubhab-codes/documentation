@@ -14,4 +14,4 @@ nav:
           - User Access: devops/linux/user-access-in-linux-servers.md
       - Networking:
           - Basics: devops/networking/networking-basics.md
-          - Troubleshooting: devops/networking/troubleshooting.md
+          - DNS: devops/networking/dns.md
