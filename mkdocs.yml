@@ -4,3 +4,14 @@ theme:
 
 nav:
   - Home: index.md
+  - DevOps:
+      - Introduction:
+          - Overview: devops/introduction/overview.md
+      - Linux:
+          - Basics: devops/linux/linux-commands.md
+          - File System: devops/linux/linux-filesystem.md
+          - Process, Signal & Ports: devops/linux/linux-process-signal-ports.md
+          - User Access: devops/linux/user-access-in-linux-servers.md
+      - Networking:
+          - Basics: devops/networking/basics.md
+          - Troubleshooting: devops/networking/troubleshooting.md
