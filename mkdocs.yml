@@ -13,5 +13,5 @@ nav:
           - Process, Signal & Ports: devops/linux/linux-process-signal-ports.md
           - User Access: devops/linux/user-access-in-linux-servers.md
       - Networking:
-          - Basics: devops/networking/basics.md
+          - Basics: devops/networking/networking-basics.md
           - Troubleshooting: devops/networking/troubleshooting.md
